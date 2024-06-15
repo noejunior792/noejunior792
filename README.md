@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noé Júnior</h1>
-<h3 align="center">Full-stack web and app developer From Angola Country 🌍.</h3>
+<h3 align="center">Backend and app developer From Angola Country 🌍.</h3>
 
 - 🌱 I’m currently learning **Rust, and Godot Engine.**
 
