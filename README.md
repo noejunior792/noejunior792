@@ -16,32 +16,31 @@
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&theme=dark&title_color=00008B&icon_color=00008B"
+          srcset="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&title_color=00008B&icon_color=00008B"
+          srcset="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&title_color=C00102&icon_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&title_color=00008B&icon_color=00008B" />
+        <img src="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&title_color=C00102&icon_color=C00102" />
       </picture>
     </td>
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&theme=dark&title_color=00008B"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&theme=dark&title_color=C00102"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&title_color=00008B"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&title_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&title_color=00008B" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&title_color=C00102" />
       </picture>
     </td>
   </tr>
 </table>
-
 
 
 <h3 align="left">Connect with me:</h3>
