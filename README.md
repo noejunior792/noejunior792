@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noé Júnior</h1>
 <h3 align="center">Backend and app developer From Angola Country 🌍.</h3>
 
-- 🌱 I’m currently learning **Rust, and Godot Engine.**
+- 👯 I’m looking to collaborate on Opensource projects
 
 - 📝 I regularly write articles on [https://www.facebook.com/noe.dombaxe/](https://www.facebook.com/noe.dombaxe/)
 
