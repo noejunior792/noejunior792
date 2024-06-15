@@ -5,11 +5,43 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/noe.dombaxe/](https://www.facebook.com/noe.dombaxe/)
 
-- 💬 Ask me about **Laravel, Angular and another choices of my skills**
+- 💬 Ask me about **Laravel, Angular, Flutter and another choices of my skills**
 
 - 📫 How to reach me **noedombaxe@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/noejunior792?tab=repositories](https://github.com/noejunior792?tab=repositories)
+
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&title_color=C00102&icon_color=C00102" />
+      </picture>
+    </td>
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&theme=dark&title_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&title_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noejunior792&layout=compact&title_color=C00102" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
