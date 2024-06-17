@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a SuperGenius and InnovaTech**
 
- 📝 I regularly write articles on https://www.facebook.com/noe.dombaxe/
+ 📝 I regularly write articles on https://medium.com/@noejunior299
  
  👯 I’m looking to collaborate on Opensource projects
 
