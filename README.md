@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/no%C3%A9-j%C3%BAnior-402569307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/noejunior792?tab=repositories" target="_blank">
+  <a href="https://noejunior.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
