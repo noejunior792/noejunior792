@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://noejunior.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,kotlin,tailwind,git,angular,php,laravel" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,flutter,express,firebase,mongodb,c,nextjs,mysql,dart,godot" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,kotlin,angular,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,flutter,firebase,c,dart,godot" /><br>
 </div>
 
 <br/>
@@ -98,11 +98,4 @@
 <a href="https://instagram.com/https://www.instagram.com/noejunior299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noejunior299" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/noejunior299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/noejunior299/" height="30" width="40" /></a>
 </p>
-<br/>
-
-<div align="center">
-<a href='https://www.buymeacoffee.com/noejunior299' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
 
