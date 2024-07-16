@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a SuperGenius and InnovaTech**
+  👯 I’m looking to collaborate on Opensource projects
 
  📝 I regularly write articles on https://medium.com/@noejunior299
  
- 👯 I’m looking to collaborate on Opensource projects
-
-💬 Ask me about **Laravel, Flutter, Angular, Firebase... or anything [here](https://github.com/noejunior792/noejunior792/issues)**
+💬 Ask me about javascript, vuejs and any general programming question.
 
  </div>
  
@@ -32,20 +30,16 @@
   </a>
 </div>
 
- <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,kotlin,angular,php,laravel" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,flutter,firebase,c,dart,godot,linux" /><br>
 </div>
 
-<br/>
 
-<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <table>
   <tr style="border: none;">
     <td style="border: none;">
@@ -76,19 +70,3 @@
     </td>
   </tr>
 </table>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/noejunior299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/noejunior299" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23073301/no%c3%a9-j%c3%banior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23073301/no%c3%a9-j%c3%banior" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/noe.dombaxe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/noe.dombaxe/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/noejunior299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noejunior299" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/noejunior299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/noejunior299/" height="30" width="40" /></a>
-</p>
-
