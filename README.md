@@ -1,24 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noejunior792.noejunior792" />
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Noé+Júnior!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Angola ao</h3>
+<h3>A passionate software developer from Angola ao</h3>
 
 <br/>
 
-<div align="center">
+<div>
  
-  👯 I’m looking to collaborate on Opensource projects
+  - 👯 I’m looking to collaborate on Opensource projects
 
- 📝 I regularly write articles on https://medium.com/@noejunior299
+  - 📝 I regularly write articles on https://medium.com/@noejunior299
  
-💬 Ask me about javascript, vuejs and any general programming question.
+  - 💬 Ask me about javascript, vuejs and any general programming question.
 
  </div>
  
-<div align="center"> 
+<div> 
   <a href="noedombaxe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,kotlin,angular,php,laravel" />
@@ -38,7 +38,7 @@
 </div>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 
 <table>
   <tr style="border: none;">
