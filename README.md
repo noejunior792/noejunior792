@@ -14,7 +14,7 @@
 
   - 📝 I regularly write articles on https://medium.com/@noejunior299
  
-  - 💬 Ask me about javascript, vuejs and any general programming question.
+  - 💬 Ask me about javascript, kotlin, and any general programming question.
 
  </div>
  
